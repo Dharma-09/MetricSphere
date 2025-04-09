@@ -3,3 +3,4 @@ Distributed application composed of multiple containers using Docker, Docker Com
 
 voting application using docker and redis to cache votes on server.
 ..
+micro architecture
